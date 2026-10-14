@@ -1,0 +1,12 @@
+{
+  "name": "agent-wallet",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "agent": "node agent/run.js"
+  },
+  "dependencies": {
+    "viem": "^2.21.0",
+    "dotenv": "^16.4.5"
+  }
+}
